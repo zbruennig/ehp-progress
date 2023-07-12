@@ -1,0 +1,761 @@
+[
+  {
+    "skill": "attack",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 192400,
+        "description": "Chally 2 alt tzhaar"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "defence",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 679800,
+        "description": "Def chin+bonus pray"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "strength",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 300000,
+        "description": "Chally 2 alt tzhaar"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "ranged",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 17000,
+        "description": "Quest + void"
+      },
+      {
+        "startExp": 224466,
+        "rate": 527700,
+        "description": "Red chins + pray (456k rate)"
+      },
+      {
+        "startExp": 449428,
+        "rate": 786200,
+        "description": "Black chins + pray (638k rate)"
+      },
+      {
+        "startExp": 737627,
+        "rate": 886400,
+        "description": "Black chins + pray (702k rate)"
+      },
+      {
+        "startExp": 1986068,
+        "rate": 1016600,
+        "description": "Black chins + pray (781k rate)"
+      },
+      {
+        "startExp": 5346332,
+        "rate": 1148400,
+        "description": "Black chins + pray (857k rate)"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 1308400,
+        "description": "Black chins + pray (943k rate)"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "prayer",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 209000,
+        "description": "Green dragons (340/hr) including melee"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "cooking",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 100000,
+        "description": "Buying and cooking karams with alt"
+      },
+      {
+        "startExp": 13363,
+        "rate": 211200,
+        "description": "Buying and cooking karams with alt"
+      },
+      {
+        "startExp": 41171,
+        "rate": 240800,
+        "description": "Buying and cooking karams with alt"
+      },
+      {
+        "startExp": 101333,
+        "rate": 270400,
+        "description": "Buying and cooking karams with alt"
+      },
+      {
+        "startExp": 273742,
+        "rate": 300100,
+        "description": "Buying and cooking karams with alt"
+      },
+      {
+        "startExp": 737627,
+        "rate": 329700,
+        "description": "Buying and cooking karams with alt"
+      },
+      {
+        "startExp": 1986068,
+        "rate": 359300,
+        "description": "Buying and cooking karams with alt"
+      },
+      {
+        "startExp": 5346332,
+        "rate": 385900,
+        "description": "Buying and cooking karams with alt"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 400000,
+        "description": "Buying and cooking karams with alt"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "woodcutting",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 7000,
+        "description": "Trees"
+      },
+      {
+        "startExp": 2411,
+        "rate": 25000,
+        "description": "Oak trees"
+      },
+      {
+        "startExp": 22406,
+        "rate": 45000,
+        "description": "Teak trees"
+      },
+      {
+        "startExp": 67983,
+        "rate": 115500,
+        "description": "1.5t teaks (for proper wt scaling)"
+      },
+      {
+        "startExp": 302288,
+        "rate": 146900,
+        "description": "1.5t teaks"
+      },
+      {
+        "startExp": 737627,
+        "rate": 159500,
+        "description": "1.5t teaks"
+      },
+      {
+        "startExp": 1986068,
+        "rate": 173400,
+        "description": "1.5t teaks"
+      },
+      {
+        "startExp": 5902831,
+        "rate": 188800,
+        "description": "1.5t teaks"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 228000,
+        "description": "1.5t redwood (161k wc 145k fm rate) + tool seed time"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "fletching",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 300000,
+        "description": "Headless arrows"
+      },
+      {
+        "startExp": 123660,
+        "rate": 825000,
+        "description": "Broads at sep, bh & zmi - gp adjusted"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "fishing",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 15000,
+        "description": "Quests"
+      },
+      {
+        "startExp": 15612,
+        "rate": 30000,
+        "description": "Fly fishing"
+      },
+      {
+        "startExp": 22406,
+        "rate": 32000,
+        "description": "Tempoross barrel"
+      },
+      {
+        "startExp": 302288,
+        "rate": 67260,
+        "description": "Aerial for angler"
+      },
+      {
+        "startExp": 737627,
+        "rate": 112030,
+        "description": "Barb + bank sturgeon (91.6k rate)"
+      },
+      {
+        "startExp": 2951373,
+        "rate": 150540,
+        "description": "Decant barblore (99.8k rate)"
+      },
+      {
+        "startExp": 5902831,
+        "rate": 160220,
+        "description": "Decant barblore (103.5k rate)"
+      },
+      {
+        "startExp": 10692629,
+        "rate": 166140,
+        "description": "Decant barblore (105.6k rate)"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 175490,
+        "description": "Decant barblore (108.4k rate)"
+      }
+    ],
+    "bonuses": [
+      {
+        "originSkill": "fishing",
+        "bonusSkill": "strength",
+        "startExp": 737627,
+        "endExp": 200000000,
+        "end": false,
+        "ratio": 0.0885
+      },
+      {
+        "originSkill": "fishing",
+        "bonusSkill": "cooking",
+        "startExp": 737627,
+        "endExp": 200000000,
+        "end": true,
+        "ratio": 0.108
+      },
+      {
+        "originSkill": "fishing",
+        "bonusSkill": "agility",
+        "startExp": 737627,
+        "endExp": 2951373,
+        "end": false,
+        "ratio": 0.08893
+      }
+    ]
+  },
+  {
+    "skill": "firemaking",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 45000,
+        "description": "Oaks"
+      },
+      {
+        "startExp": 101333,
+        "rate": 240800,
+        "description": "Wintertodt hop + fletch, wc, con & loot ehp (207k rate)"
+      },
+      {
+        "startExp": 273742,
+        "rate": 284600,
+        "description": "Wintertodt hop + fletch, wc, con & loot ehp (244k rate)"
+      },
+      {
+        "startExp": 737627,
+        "rate": 328300,
+        "description": "Wintertodt hop + fletch, wc, con & loot ehp (282k rate)"
+      },
+      {
+        "startExp": 1986068,
+        "rate": 372000,
+        "description": "Wintertodt hop + fletch, wc, con & loot ehp (319k rate)"
+      },
+      {
+        "startExp": 5346332,
+        "rate": 412900,
+        "description": "Wintertodt hop + fletch, wc, con & loot ehp (355k rate)"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 456900,
+        "description": "Wintertodt hop + fletch, wc, con & loot ehp (392k rate)"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "crafting",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 50000,
+        "description": "Glassblow no superglass"
+      },
+      {
+        "startExp": 302288,
+        "rate": 165200,
+        "description": "Glassblow artefact + zmi (261k effective rate)"
+      },
+      {
+        "startExp": 3972294,
+        "rate": 205300,
+        "description": "Glassblow artefact + zmi (332k effective rate)"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "smithing",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 72800,
+        "description": "Quests, wt ore + gold"
+      },
+      {
+        "startExp": 273742,
+        "rate": 245700,
+        "description": "Uim gold 2 client (315k rate) - gp adjusted"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 301900,
+        "description": "Uim gold 2 client (330k rate) - gp adjusted"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "mining",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 17000,
+        "description": "Quests"
+      },
+      {
+        "startExp": 25525,
+        "rate": 70000,
+        "description": "3t4s at quarry"
+      },
+      {
+        "startExp": 61512,
+        "rate": 85500,
+        "description": "3t4g at quarry"
+      },
+      {
+        "startExp": 101333,
+        "rate": 89151,
+        "description": "3t4g at quarry"
+      },
+      {
+        "startExp": 302288,
+        "rate": 97923,
+        "description": "3t4g at quarry"
+      },
+      {
+        "startExp": 737627,
+        "rate": 103751,
+        "description": "3t4g at quarry"
+      },
+      {
+        "startExp": 1986068,
+        "rate": 109143,
+        "description": "3t4g at quarry"
+      },
+      {
+        "startExp": 3258594,
+        "rate": 46500,
+        "description": "Mlm prospector"
+      },
+      {
+        "startExp": 3548694,
+        "rate": 113287,
+        "description": "3t4g at quarry"
+      },
+      {
+        "startExp": 5346332,
+        "rate": 115638,
+        "description": "3t4g at quarry"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 125000,
+        "description": "3t4g at quarry"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "herblore",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 71560,
+        "description": "Contracts + kingdom"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 73560,
+        "description": "Contracts + kingdom"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "agility",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 10000,
+        "description": "Quests"
+      },
+      {
+        "startExp": 61600,
+        "rate": 35000,
+        "description": "Bonus xp from fishing (wildy rate)"
+      },
+      {
+        "startExp": 123660,
+        "rate": 45847,
+        "description": "Bonus xp from fishing (sepulchre rate)"
+      },
+      {
+        "startExp": 333804,
+        "rate": 57300,
+        "description": "Sepulchre"
+      },
+      {
+        "startExp": 899257,
+        "rate": 67700,
+        "description": "Sepulchre"
+      },
+      {
+        "startExp": 2421087,
+        "rate": 73800,
+        "description": "Sepulchre"
+      },
+      {
+        "startExp": 6517253,
+        "rate": 98500,
+        "description": "Sepulchre"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 102600,
+        "description": "Sepulchre (100.8k no loot rate) + con ehp. Real time agility rate when efficiently looting is 89.3k, time spent looting is added to gp adjusted skills."
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "thieving",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 26000,
+        "description": "Quests + fruit stall"
+      },
+      {
+        "startExp": 61512,
+        "rate": 80000,
+        "description": "Blackjacking"
+      },
+      {
+        "startExp": 91721,
+        "rate": 193600,
+        "description": "Artefact + glassblowing (152k, 71k rate)"
+      },
+      {
+        "startExp": 273742,
+        "rate": 220200,
+        "description": "Artefact + glassblowing (172k, 71k rate)"
+      },
+      {
+        "startExp": 668051,
+        "rate": 246700,
+        "description": "Artefact + glassblowing (193k, 71k rate)"
+      },
+      {
+        "startExp": 1798808,
+        "rate": 273300,
+        "description": "Artefact + glassblowing (214k, 71k rate)"
+      },
+      {
+        "startExp": 4842295,
+        "rate": 299900,
+        "description": "Artefact + glassblowing (235k, 71k rate)"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 312500,
+        "description": "Artefact + glassblowing (245k, 71k rate)"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "slayer",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 4600,
+        "description": "Gear + turael & konar"
+      },
+      {
+        "startExp": 105000,
+        "rate": 20700,
+        "description": "Nieve slayer"
+      },
+      {
+        "startExp": 273742,
+        "rate": 30200,
+        "description": "Nieve slayer"
+      },
+      {
+        "startExp": 449428,
+        "rate": 35200,
+        "description": "Nieve slayer"
+      },
+      {
+        "startExp": 1986068,
+        "rate": 40800,
+        "description": "Duradel slayer"
+      },
+      {
+        "startExp": 3258594,
+        "rate": 50700,
+        "description": "Duradel slayer"
+      },
+      {
+        "startExp": 7195629,
+        "rate": 56300,
+        "description": "Duradel slayer"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 67450,
+        "description": "Duradel slayer + banked ehp (52.7k rate)"
+      }
+    ],
+    "bonuses": [
+      {
+        "originSkill": "slayer",
+        "bonusSkill": "ranged",
+        "startExp": 0,
+        "endExp": 200000000,
+        "end": true,
+        "ratio": 0.0268
+      },
+      {
+        "originSkill": "slayer",
+        "bonusSkill": "defence",
+        "startExp": 0,
+        "endExp": 200000000,
+        "end": false,
+        "ratio": 1
+      },
+      {
+        "originSkill": "slayer",
+        "bonusSkill": "attack",
+        "startExp": 0,
+        "endExp": 200000000,
+        "end": false,
+        "ratio": 1
+      },
+      {
+        "originSkill": "slayer",
+        "bonusSkill": "strength",
+        "startExp": 0,
+        "endExp": 200000000,
+        "end": false,
+        "ratio": 0.9118
+      }
+    ]
+  },
+  {
+    "skill": "farming",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 500000,
+        "description": "Low lv trees"
+      },
+      {
+        "startExp": 150872,
+        "rate": 66000,
+        "description": "Seed box + autoweed"
+      },
+      {
+        "startExp": 415000,
+        "rate": 2000000,
+        "description": "Tree runs"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 2880000,
+        "description": "Magic+ tree runs"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "runecrafting",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 16000,
+        "description": "Quests"
+      },
+      {
+        "startExp": 36000,
+        "rate": 54700,
+        "description": "1.5t daeyalt lavas (85k rate)"
+      },
+      {
+        "startExp": 101333,
+        "rate": 60600,
+        "description": "1.5t daeyalt lavas (101k rate)"
+      },
+      {
+        "startExp": 737627,
+        "rate": 56000,
+        "description": "1.5t daeyalt zmi (77k rate)"
+      },
+      {
+        "startExp": 1210421,
+        "rate": 64000,
+        "description": "1.5t daeyalt zmi (91k rate)"
+      },
+      {
+        "startExp": 1986068,
+        "rate": 60000,
+        "description": "Gotr outfit"
+      },
+      {
+        "startExp": 3258594,
+        "rate": 75200,
+        "description": "1.5t daeyalt zmi (114k rate)"
+      },
+      {
+        "startExp": 5346332,
+        "rate": 77900,
+        "description": "1.5t daeyalt zmi (118k rate)"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 80000,
+        "description": "1.5t daeyalt zmi (122k rate)"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "hunter",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 92600,
+        "description": "Avg bh low lvs"
+      },
+      {
+        "startExp": 101333,
+        "rate": 175300,
+        "description": "Mahogany bh"
+      },
+      {
+        "startExp": 668051,
+        "rate": 84490,
+        "description": "Aerial for angler"
+      },
+      {
+        "startExp": 1214914,
+        "rate": 185000,
+        "description": "Mahogany+ bh"
+      },
+      {
+        "startExp": 1986068,
+        "rate": 140500,
+        "description": "Red chins"
+      },
+      {
+        "startExp": 2228278,
+        "rate": 194500,
+        "description": "Black chins"
+      },
+      {
+        "startExp": 5902831,
+        "rate": 225300,
+        "description": "Black chins"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 245300,
+        "description": "Avg rate of black chins & bh runs"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "construction",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 20000,
+        "description": "Planks"
+      },
+      {
+        "startExp": 18247,
+        "rate": 75000,
+        "description": "Oak larders"
+      },
+      {
+        "startExp": 75127,
+        "rate": 202091,
+        "description": "1.5t teak myth capes (430k rate) + kingdom mahogany benches (1050k rate) - gp adjusted"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 233800,
+        "description": "1.5t teak myth capes (430k rate) + kingdom mahogany benches (1050k rate) - gp adjusted"
+      }
+    ],
+    "bonuses": []
+  }
+]

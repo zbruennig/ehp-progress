@@ -1,0 +1,665 @@
+[
+  {
+    "skill": "cooking",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 40000,
+        "description": "Shrimp & Trout"
+      },
+      {
+        "startExp": 13363,
+        "rate": 463867,
+        "description": "1t Karambwans"
+      },
+      {
+        "startExp": 37224,
+        "rate": 534375,
+        "description": "1t Karambwans"
+      },
+      {
+        "startExp": 101333,
+        "rate": 604883,
+        "description": "1t Karambwans"
+      },
+      {
+        "startExp": 273742,
+        "rate": 671680,
+        "description": "1t Karambwans"
+      },
+      {
+        "startExp": 737627,
+        "rate": 742188,
+        "description": "1t Karambwans"
+      },
+      {
+        "startExp": 1986068,
+        "rate": 812695,
+        "description": "1t Karambwans"
+      },
+      {
+        "startExp": 5346332,
+        "rate": 883203,
+        "description": "1t Karambwans"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 950000,
+        "description": "1t Karambwans"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "woodcutting",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 7000,
+        "description": "Trees"
+      },
+      {
+        "startExp": 2411,
+        "rate": 16000,
+        "description": "Oak trees"
+      },
+      {
+        "startExp": 13363,
+        "rate": 35000,
+        "description": "Willow trees"
+      },
+      {
+        "startExp": 22406,
+        "rate": 87750,
+        "description": "1.5t Teaks"
+      },
+      {
+        "startExp": 41171,
+        "rate": 108161,
+        "description": "1.5t Teaks"
+      },
+      {
+        "startExp": 111945,
+        "rate": 119224,
+        "description": "1.5t Teaks"
+      },
+      {
+        "startExp": 302288,
+        "rate": 148471,
+        "description": "1.5t Teaks"
+      },
+      {
+        "startExp": 737627,
+        "rate": 158861,
+        "description": "1.5t Teaks"
+      },
+      {
+        "startExp": 1986068,
+        "rate": 171832,
+        "description": "1.5t Teaks"
+      },
+      {
+        "startExp": 5346332,
+        "rate": 183623,
+        "description": "1.5t Teaks"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 195178,
+        "description": "1.5t Teaks"
+      }
+    ],
+    "bonuses": [
+      {
+        "originSkill": "woodcutting",
+        "bonusSkill": "firemaking",
+        "startExp": 302288,
+        "endExp": 200000000,
+        "end": true,
+        "ratio": 0.2
+      }
+    ]
+  },
+  {
+    "skill": "fishing",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 20000,
+        "description": "Questing XP"
+      },
+      {
+        "startExp": 18247,
+        "rate": 40000,
+        "description": "Fly fishing (Trout & Salmon)"
+      },
+      {
+        "startExp": 101333,
+        "rate": 82355,
+        "description": "Fly fishing (Trout & Salmon)"
+      },
+      {
+        "startExp": 273742,
+        "rate": 97862,
+        "description": "Fly fishing (Trout & Salmon)"
+      },
+      {
+        "startExp": 737627,
+        "rate": 124127,
+        "description": "Fly fishing (Trout & Salmon)"
+      },
+      {
+        "startExp": 1986068,
+        "rate": 128908,
+        "description": "Fly fishing (Trout & Salmon)"
+      },
+      {
+        "startExp": 5346332,
+        "rate": 131109,
+        "description": "Fly fishing (Trout & Salmon)"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 95000,
+        "description": "Fly fishing (Trout & Salmon)"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "firemaking",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 58960,
+        "description": "Logs"
+      },
+      {
+        "startExp": 2411,
+        "rate": 88440,
+        "description": "Oak logs"
+      },
+      {
+        "startExp": 13363,
+        "rate": 132660,
+        "description": "Willow logs"
+      },
+      {
+        "startExp": 22406,
+        "rate": 154770,
+        "description": "Teak logs"
+      },
+      {
+        "startExp": 61512,
+        "rate": 198990,
+        "description": "Maple logs"
+      },
+      {
+        "startExp": 101333,
+        "rate": 232155,
+        "description": "Firebwan (Mahogany logs)"
+      },
+      {
+        "startExp": 273742,
+        "rate": 298485,
+        "description": "Firebwan (Yew logs)"
+      },
+      {
+        "startExp": 1210421,
+        "rate": 447801,
+        "description": "Firebwan (Magic logs)"
+      },
+      {
+        "startExp": 5346332,
+        "rate": 505000,
+        "description": "Firebwan (Redwood logs)"
+      }
+    ],
+    "bonuses": [
+      {
+        "originSkill": "firemaking",
+        "bonusSkill": "cooking",
+        "startExp": 101333,
+        "endExp": 200000000,
+        "end": true,
+        "ratio": 0.7
+      }
+    ]
+  },
+  {
+    "skill": "crafting",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 57000,
+        "description": "Leather & Gems"
+      },
+      {
+        "startExp": 368599,
+        "rate": 320000,
+        "description": "Green d'hide bodies"
+      },
+      {
+        "startExp": 814445,
+        "rate": 360000,
+        "description": "Blue d'hide bodies"
+      },
+      {
+        "startExp": 1475581,
+        "rate": 400000,
+        "description": "Red d'hide bodies"
+      },
+      {
+        "startExp": 2951373,
+        "rate": 440000,
+        "description": "Black d'hide bodies"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "smithing",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 40000,
+        "description": "Questing XP"
+      },
+      {
+        "startExp": 14833,
+        "rate": 104000,
+        "description": "Iron platebodies"
+      },
+      {
+        "startExp": 83014,
+        "rate": 156000,
+        "description": "Steel platebodies"
+      },
+      {
+        "startExp": 605032,
+        "rate": 208000,
+        "description": "Mithril platebodies"
+      },
+      {
+        "startExp": 4385776,
+        "rate": 260000,
+        "description": "Adamant platebodies"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 410000,
+        "description": "Blast Furnace Gold"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "mining",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 30000,
+        "description": "Questing XP"
+      },
+      {
+        "startExp": 13363,
+        "rate": 53780,
+        "description": "3t Iron"
+      },
+      {
+        "startExp": 61512,
+        "rate": 77727,
+        "description": "3t4g at Desert Quarry"
+      },
+      {
+        "startExp": 101333,
+        "rate": 81046,
+        "description": "3t4g at Desert Quarry"
+      },
+      {
+        "startExp": 302288,
+        "rate": 88350,
+        "description": "3t4g at Desert Quarry"
+      },
+      {
+        "startExp": 737627,
+        "rate": 93609,
+        "description": "3t4g at Desert Quarry"
+      },
+      {
+        "startExp": 1986068,
+        "rate": 98474,
+        "description": "3t4g at Desert Quarry"
+      },
+      {
+        "startExp": 3258594,
+        "rate": 46500,
+        "description": "Motherlode Mine for Prospector kit"
+      },
+      {
+        "startExp": 3693744,
+        "rate": 103620,
+        "description": "3t4g at Desert Quarry"
+      },
+      {
+        "startExp": 5346332,
+        "rate": 105125,
+        "description": "3t4g at Desert Quarry"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 114130,
+        "description": "3t4g at Desert Quarry"
+      }
+    ],
+    "bonuses": [
+      {
+        "originSkill": "mining",
+        "bonusSkill": "smithing",
+        "startExp": 302288,
+        "endExp": 200000000,
+        "end": true,
+        "ratio": 0.08
+      }
+    ]
+  },
+  {
+    "skill": "herblore",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 6000,
+        "description": "Questing XP"
+      },
+      {
+        "startExp": 3000,
+        "rate": 125000,
+        "description": "Strength potions"
+      },
+      {
+        "startExp": 30408,
+        "rate": 218750,
+        "description": "Prayer potions"
+      },
+      {
+        "startExp": 61512,
+        "rate": 250000,
+        "description": "Super attack potions"
+      },
+      {
+        "startExp": 368599,
+        "rate": 356250,
+        "description": "Super restore potions"
+      },
+      {
+        "startExp": 1336443,
+        "rate": 431250,
+        "description": "Magic potions"
+      },
+      {
+        "startExp": 2192818,
+        "rate": 450000,
+        "description": "Saradomin brews"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "agility",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 6000,
+        "description": "Gnome Stronghold Agility Course"
+      },
+      {
+        "startExp": 1154,
+        "rate": 9000,
+        "description": "Draynor Agility Course"
+      },
+      {
+        "startExp": 13363,
+        "rate": 13000,
+        "description": "Varrock Agility Course"
+      },
+      {
+        "startExp": 75127,
+        "rate": 42000,
+        "description": "Wilderness Agility Course"
+      },
+      {
+        "startExp": 273742,
+        "rate": 45000,
+        "description": "Seers' Village Agility Course"
+      },
+      {
+        "startExp": 737627,
+        "rate": 49000,
+        "description": "Pollnivneach Agility Course"
+      },
+      {
+        "startExp": 1986086,
+        "rate": 52000,
+        "description": "Rellekka Agility Course"
+      },
+      {
+        "startExp": 3972294,
+        "rate": 59000,
+        "description": "Ardougne Agility Course"
+      },
+      {
+        "startExp": 9684577,
+        "rate": 62300,
+        "description": "Swimming"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "thieving",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 15000,
+        "description": "Questing XP"
+      },
+      {
+        "startExp": 2500,
+        "rate": 28800,
+        "description": "Bakery Stall"
+      },
+      {
+        "startExp": 7842,
+        "rate": 39000,
+        "description": "Fruit Stall"
+      },
+      {
+        "startExp": 61512,
+        "rate": 55000,
+        "description": "Blackjacking"
+      },
+      {
+        "startExp": 166636,
+        "rate": 90000,
+        "description": "Blackjacking"
+      },
+      {
+        "startExp": 449428,
+        "rate": 215000,
+        "description": "Blackjacking"
+      },
+      {
+        "startExp": 5902831,
+        "rate": 250000,
+        "description": "Pyramid Plunder"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 260000,
+        "realRate": 139062,
+        "description": "Swimming"
+      }
+    ],
+    "bonuses": [
+      {
+        "originSkill": "thieving",
+        "bonusSkill": "agility",
+        "startExp": 13034431,
+        "endExp": 200000000,
+        "maxBonus": 12029509,
+        "end": true,
+        "ratio": 0.2727272727
+      }
+    ]
+  },
+  {
+    "skill": "farming",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 10000,
+        "description": "Bagged plants"
+      },
+      {
+        "startExp": 2411,
+        "rate": 50000,
+        "description": "Tree runs"
+      },
+      {
+        "startExp": 13363,
+        "rate": 80000,
+        "description": "Tree runs"
+      },
+      {
+        "startExp": 61512,
+        "rate": 150000,
+        "description": "Tree runs"
+      },
+      {
+        "startExp": 273742,
+        "rate": 350000,
+        "description": "Tree runs"
+      },
+      {
+        "startExp": 1210421,
+        "rate": 1900000,
+        "description": "Tree runs"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "runecrafting",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 8000,
+        "description": "Questing XP & Earth runes"
+      },
+      {
+        "startExp": 6291,
+        "rate": 230000,
+        "description": "0+4 Lava runes"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "hunter",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 55000,
+        "description": "Varrock Museum"
+      },
+      {
+        "startExp": 2107,
+        "rate": 82000,
+        "description": "Oak bird house runs"
+      },
+      {
+        "startExp": 7028,
+        "rate": 110000,
+        "description": "Willow bird house runs"
+      },
+      {
+        "startExp": 20224,
+        "rate": 138000,
+        "description": "Teak bird house runs"
+      },
+      {
+        "startExp": 55649,
+        "rate": 161000,
+        "description": "Maple bird house runs"
+      },
+      {
+        "startExp": 101333,
+        "rate": 361981,
+        "description": "Drift net"
+      },
+      {
+        "startExp": 273742,
+        "rate": 427613,
+        "description": "Drift net"
+      },
+      {
+        "startExp": 737627,
+        "rate": 430165,
+        "description": "Drift net"
+      },
+      {
+        "startExp": 1986068,
+        "rate": 391950,
+        "description": "Drift net"
+      },
+      {
+        "startExp": 5346332,
+        "rate": 377338,
+        "description": "Drift net"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 310000,
+        "realRate": 118535,
+        "description": "Drift net (Bird house runs)"
+      }
+    ],
+    "bonuses": [
+      {
+        "originSkill": "hunter",
+        "bonusSkill": "fishing",
+        "startExp": 13034431,
+        "endExp": 200000000,
+        "maxBonus": 49288098,
+        "end": true,
+        "ratio": 0.7586029443
+      }
+    ]
+  },
+  {
+    "skill": "construction",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 100000,
+        "description": "Oak chairs"
+      },
+      {
+        "startExp": 18247,
+        "rate": 480000,
+        "description": "Oak larders"
+      },
+      {
+        "startExp": 123660,
+        "rate": 935000,
+        "description": "Mahogany tables"
+      },
+      {
+        "startExp": 1475581,
+        "rate": 1050000,
+        "description": "Mahogany benches"
+      }
+    ],
+    "bonuses": []
+  }
+]

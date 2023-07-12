@@ -1,0 +1,673 @@
+[
+  {
+    "skill": "attack",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 12000,
+        "description": "Vampyre Slayer"
+      },
+      {
+        "startExp": 4825,
+        "rate": 30000,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 37224,
+        "rate": 90000,
+        "description": "Castle Wars Alt. Killing"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "defence",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 90000,
+        "description": "Castle Wars Alt. Killing"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "strength",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 12000,
+        "description": "Dragon Slayer"
+      },
+      {
+        "startExp": 18650,
+        "rate": 25000,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 37224,
+        "rate": 40500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 50339,
+        "rate": 43500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 75127,
+        "rate": 49000,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 123660,
+        "rate": 52000,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 166636,
+        "rate": 55000,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 273742,
+        "rate": 58000,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 407015,
+        "rate": 61000,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 547953,
+        "rate": 66500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 899257,
+        "rate": 69500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 1336443,
+        "rate": 72500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 1986068,
+        "rate": 75500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 2951373,
+        "rate": 78500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 4385776,
+        "rate": 84000,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 7195629,
+        "rate": 87000,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 9684577,
+        "rate": 90000,
+        "description": "Castle Wars Alt. Killing"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "ranged",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 8000,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 13363,
+        "rate": 30000,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 20224,
+        "rate": 34000,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 33648,
+        "rate": 40500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 55649,
+        "rate": 44500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 91721,
+        "rate": 48500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 150872,
+        "rate": 52500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 273742,
+        "rate": 56500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 449428,
+        "rate": 63000,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 737627,
+        "rate": 66500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 1210421,
+        "rate": 70500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 1986068,
+        "rate": 74500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 3258594,
+        "rate": 78500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 5346332,
+        "rate": 85500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 8771558,
+        "rate": 89500,
+        "description": "Castle Wars Alt. Killing"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 90000,
+        "description": "Castle Wars Alt. Killing"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "prayer",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 105000,
+        "description": "Bury Big bones & Vile ashes"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "magic",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 15000,
+        "description": "Misc. Spells"
+      },
+      {
+        "startExp": 5018,
+        "rate": 60000,
+        "description": "Low Alchemy"
+      },
+      {
+        "startExp": 50339,
+        "rate": 100000,
+        "description": "Superheat Gold"
+      },
+      {
+        "startExp": 166636,
+        "rate": 165000,
+        "description": "Alchemy + Falador Teleport + Fire Blast Splashing"
+      },
+      {
+        "startExp": 3258594,
+        "rate": 180000,
+        "description": "Alchemy + Teleblock"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "cooking",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 100000,
+        "description": "1t Beef"
+      },
+      {
+        "startExp": 22406,
+        "rate": 450000,
+        "description": "Wines (Incl. Avg. Rate of Failure)"
+      },
+      {
+        "startExp": 605032,
+        "rate": 500000,
+        "description": "Wines"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "woodcutting",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 29500,
+        "description": "4t Trees"
+      },
+      {
+        "startExp": 2411,
+        "rate": 30000,
+        "description": "2t Oaks (steel axe)"
+      },
+      {
+        "startExp": 5018,
+        "rate": 40000,
+        "description": "2t oaks (mith axe)"
+      },
+      {
+        "startExp": 14833,
+        "rate": 55000,
+        "description": "2t oaks (addy axe)"
+      },
+      {
+        "startExp": 41171,
+        "rate": 73500,
+        "description": "2t oaks (rune axe)"
+      },
+      {
+        "startExp": 101333,
+        "rate": 81500,
+        "description": "2t oaks (rune axe)"
+      },
+      {
+        "startExp": 302288,
+        "rate": 90000,
+        "description": "2t oaks (100% success)"
+      }
+    ],
+    "bonuses": [
+      {
+        "originSkill": "woodcutting",
+        "bonusSkill": "magic",
+        "startExp": 2411,
+        "endExp": 5018,
+        "end": false,
+        "ratio": 1.8
+      },
+      {
+        "originSkill": "woodcutting",
+        "bonusSkill": "magic",
+        "startExp": 5018,
+        "endExp": 14833,
+        "end": false,
+        "ratio": 1.35
+      },
+      {
+        "originSkill": "woodcutting",
+        "bonusSkill": "magic",
+        "startExp": 14833,
+        "endExp": 41171,
+        "end": false,
+        "ratio": 0.97
+      },
+      {
+        "originSkill": "woodcutting",
+        "bonusSkill": "magic",
+        "startExp": 41171,
+        "endExp": 101333,
+        "end": false,
+        "ratio": 0.73
+      },
+      {
+        "originSkill": "woodcutting",
+        "bonusSkill": "magic",
+        "startExp": 101333,
+        "endExp": 302288,
+        "end": false,
+        "ratio": 0.66
+      },
+      {
+        "originSkill": "woodcutting",
+        "bonusSkill": "magic",
+        "startExp": 302288,
+        "endExp": 200000000,
+        "end": false,
+        "ratio": 0.6
+      }
+    ]
+  },
+  {
+    "skill": "fishing",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 14000,
+        "description": "Best fish"
+      },
+      {
+        "startExp": 4470,
+        "rate": 28000,
+        "description": "Best fish"
+      },
+      {
+        "startExp": 13363,
+        "rate": 37500,
+        "description": "3t Cake Scatter"
+      },
+      {
+        "startExp": 101333,
+        "rate": 52000,
+        "description": "3t Cake Scatter"
+      },
+      {
+        "startExp": 273742,
+        "rate": 58000,
+        "description": "3t Cake Scatter"
+      },
+      {
+        "startExp": 737627,
+        "rate": 64000,
+        "description": "3t Cake Scatter"
+      },
+      {
+        "startExp": 1986068,
+        "rate": 70000,
+        "description": "3t Cake Scatter"
+      },
+      {
+        "startExp": 5902831,
+        "rate": 75000,
+        "description": "3t Cake Scatter"
+      },
+      {
+        "startExp": 8771558,
+        "rate": 77500,
+        "description": "3t Cake Scatter"
+      },
+      {
+        "startExp": 13034431,
+        "rate": 80000,
+        "description": "3t Cake Scatter"
+      }
+    ],
+    "bonuses": [
+      {
+        "originSkill": "fishing",
+        "bonusSkill": "prayer",
+        "startExp": 13363,
+        "endExp": 101333,
+        "end": false,
+        "ratio": 0.667
+      },
+      {
+        "originSkill": "fishing",
+        "bonusSkill": "prayer",
+        "startExp": 101333,
+        "endExp": 273742,
+        "end": false,
+        "ratio": 0.48
+      },
+      {
+        "originSkill": "fishing",
+        "bonusSkill": "prayer",
+        "startExp": 273742,
+        "endExp": 737627,
+        "end": false,
+        "ratio": 0.43
+      },
+      {
+        "originSkill": "fishing",
+        "bonusSkill": "prayer",
+        "startExp": 737627,
+        "endExp": 1986068,
+        "end": false,
+        "ratio": 0.39
+      },
+      {
+        "originSkill": "fishing",
+        "bonusSkill": "prayer",
+        "startExp": 1986068,
+        "endExp": 5902831,
+        "end": false,
+        "ratio": 0.356
+      },
+      {
+        "originSkill": "fishing",
+        "bonusSkill": "prayer",
+        "startExp": 5902831,
+        "endExp": 8771558,
+        "end": false,
+        "ratio": 0.333
+      },
+      {
+        "originSkill": "fishing",
+        "bonusSkill": "prayer",
+        "startExp": 8771558,
+        "endExp": 13034431,
+        "end": false,
+        "ratio": 0.323
+      },
+      {
+        "originSkill": "fishing",
+        "bonusSkill": "prayer",
+        "startExp": 13034431,
+        "endExp": 200000000,
+        "end": false,
+        "ratio": 0.313
+      }
+    ]
+  },
+  {
+    "skill": "firemaking",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 45000,
+        "description": "Best logs @ GE w/ Vile ashes"
+      },
+      {
+        "startExp": 13363,
+        "rate": 130500,
+        "description": "Best logs @ GE w/ Vile ashes"
+      },
+      {
+        "startExp": 61512,
+        "rate": 195750,
+        "description": "Best logs @ GE w/ Vile ashes"
+      },
+      {
+        "startExp": 273742,
+        "rate": 293625,
+        "description": "Best logs @ GE w/ Vile ashes"
+      }
+    ],
+    "bonuses": [
+      {
+        "originSkill": "firemaking",
+        "bonusSkill": "prayer",
+        "startExp": 13363,
+        "endExp": 61512,
+        "end": false,
+        "ratio": 0.267
+      },
+      {
+        "originSkill": "firemaking",
+        "bonusSkill": "prayer",
+        "startExp": 61512,
+        "endExp": 273742,
+        "end": false,
+        "ratio": 0.178
+      },
+      {
+        "originSkill": "firemaking",
+        "bonusSkill": "prayer",
+        "startExp": 273742,
+        "endExp": 200000000,
+        "end": false,
+        "ratio": 0.125
+      }
+    ]
+  },
+  {
+    "skill": "crafting",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 37000,
+        "description": "Leather"
+      },
+      {
+        "startExp": 4470,
+        "rate": 137200,
+        "description": "Sapphires"
+      },
+      {
+        "startExp": 9730,
+        "rate": 185220,
+        "description": "Emeralds"
+      },
+      {
+        "startExp": 20224,
+        "rate": 233240,
+        "description": "Rubies"
+      },
+      {
+        "startExp": 50339,
+        "rate": 295000,
+        "description": "Diamonds"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "smithing",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 38175,
+        "description": "Knight's Sword"
+      },
+      {
+        "startExp": 12725,
+        "rate": 58000,
+        "description": "Bronze Platebodies w/ alt"
+      },
+      {
+        "startExp": 18247,
+        "rate": 116000,
+        "description": "Iron Platebodies w/ alt"
+      },
+      {
+        "startExp": 83014,
+        "rate": 174000,
+        "description": "Steel Platebodies w/ alt"
+      },
+      {
+        "startExp": 605032,
+        "rate": 232000,
+        "description": "Mithril Platebodies w/ alt"
+      },
+      {
+        "startExp": 4385776,
+        "rate": 290000,
+        "description": "Adamant Platebodies w/ alt"
+      }
+    ],
+    "bonuses": []
+  },
+  {
+    "skill": "mining",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 4000,
+        "description": "Tin/copper"
+      },
+      {
+        "startExp": 2411,
+        "rate": 40500,
+        "description": "4t leather double roll at hobgoblin mine"
+      },
+      {
+        "startExp": 13363,
+        "rate": 45500,
+        "description": "4t leather double roll at hobgoblin mine"
+      },
+      {
+        "startExp": 37224,
+        "rate": 48000,
+        "description": "3.33t snow mining at al kharid"
+      },
+      {
+        "startExp": 101333,
+        "rate": 54000,
+        "description": "3.33t snow mining at al kharid"
+      },
+      {
+        "startExp": 247886,
+        "rate": 56000,
+        "description": "3t cake scatter iron at mining guild"
+      },
+      {
+        "startExp": 302288,
+        "rate": 57000,
+        "description": "3t cake scatter iron at mining guild"
+      }
+    ],
+    "bonuses": [
+      {
+        "originSkill": "mining",
+        "bonusSkill": "prayer",
+        "startExp": 247886,
+        "endExp": 200000000,
+        "end": false,
+        "ratio": 0.54
+      }
+    ]
+  },
+  {
+    "skill": "runecrafting",
+    "methods": [
+      {
+        "startExp": 0,
+        "rate": 55000,
+        "description": "Solo Body talismans"
+      }
+    ],
+    "bonuses": [
+      {
+        "originSkill": "runecrafting",
+        "bonusSkill": "magic",
+        "startExp": 0,
+        "endExp": 200000000,
+        "end": false,
+        "ratio": 0.4
+      }
+    ]
+  }
+]
